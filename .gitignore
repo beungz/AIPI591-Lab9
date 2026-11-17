@@ -1,0 +1,11 @@
+﻿# Keep only: expert, baseline, improved (v3), Optuna
+outputs_lab11/*
+!outputs_lab11/expert_ppo.zip
+!outputs_lab11/expert_demo.mp4
+!outputs_lab11/airl_policy.zip
+!outputs_lab11/airl_reward_net.pt
+!outputs_lab11/airl_demo.mp4
+!outputs_lab11/airl_v3/
+!outputs_lab11/optuna_tmp/
+!outputs_lab11/optuna_last_overwrite/
+lab9_before_v3_backup.ipynb
